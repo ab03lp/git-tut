@@ -20,6 +20,6 @@ elif len(s)>=6:
 
 
 if totala>totalb:
-    print("P1 wins")
+    print("P1 wins hehe")
 else:
-    print("P2 wins")
+    print("P2 wins hehehe")
