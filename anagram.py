@@ -1,5 +1,5 @@
 a={}
-b={}
+c={}
 s=input()
 t=input()
 for i in s:
@@ -9,11 +9,11 @@ for i in s:
         a[i]+=1
 
 for i in t:
-    if i not in b:
-        b[i]=1
+    if i not in c:
+        c[i]=1
     else:
-        b[i]+=1
-if a==b:
+        c[i]+=1
+if a==c:
     print("True")
 else:
     print("False")
