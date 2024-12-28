@@ -10,7 +10,7 @@ s=set(P2)
 
 if len(r)<=3:
     totala=p+0
-elif len(r)>=6:
+elif len(r)>=6:         #blah13
     totala=p+4
 
 if len(s)<=3:

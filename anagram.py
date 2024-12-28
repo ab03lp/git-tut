@@ -12,7 +12,7 @@ for i in t:
     if i not in c:
         c[i]=1
     else:
-        c[i]+=1             #blah
+        c[i]+=1             #blah13
 if a==c:
     print("True")
 else:
